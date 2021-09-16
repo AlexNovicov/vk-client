@@ -1,5 +1,5 @@
 {
-    "name": "atehnix/vk-client",
+    "name": "alexnovicov/vk-client",
     "description": "PHP client for Vk.com API",
     "keywords": ["php", "api", "client", "vk", "vk.com", "vkontakte"],
     "license": "MIT",
